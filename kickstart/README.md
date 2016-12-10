@@ -7,10 +7,10 @@ TODO
     - Server (no dev tools)
 
  - After kickstart, need to configure (using steps in github)
- - enable dhcp, ssh-agent, keygen, pull farmstr codebase, copy httpd files, restart apache, start mysql
+ - enable dhcp, ssh-agent, keygen, copy httpd files, restart apache, start mysql
  - enter default data into db (db dump or migration)
  - test website to check response
- - also possibly enter a hostname (need dns)
+ - setup dns
 
 
 
